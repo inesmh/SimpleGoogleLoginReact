@@ -66,8 +66,7 @@ login function and renders the login google button.
 ● Signout function (HandleSignOut): shows logout button, user’s picture and name once logged in.
 ● HTML code: shows the applications name, and with the interface guides the user to login and logout, calling the buttons and functions previously created.
 
-To test the app, go to the folder where the project is saved. Note that node.js and npm should be installed in order to compile the application.
-Type "npm start" to launch the application. The browser will open http://localhost:3000/
+To test the app, go to the folder where the project is saved. Note that node.js and npm should be installed in order to compile the application. Type "npm start" to launch the application. The browser will open http://localhost:3000/
 <img width="313" alt="simple_google_auth_9" src="https://github.com/user-attachments/assets/b7e18995-86fe-4298-8410-d91b3128ca40">
 *Ref 9: Application launched*
 
