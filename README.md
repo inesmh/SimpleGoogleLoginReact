@@ -4,14 +4,14 @@
 The aim of this project is to integrate OpenIdConnect (OIDC) with Google as the Identity Provider (IdP) with a React application
 <br /> <br />
 <h3>Skills Learned</h3>
-● Understand OpenIdConnect with Google as an IdP
-● Basic React
+● Understand OpenIdConnect with Google as an IdP <br />
+● Basic React <br />
 
 <br />
 <h3>Tools Used</h3>
-● Google Cloud Console
-● Node.js: as the JavaScript runtime environment
-● Npm: package manager for Node.js packages
+● Google Cloud Console <br />
+● Node.js: as the JavaScript runtime environment <br />
+● Npm: package manager for Node.js packages <br />
 <br />
 <h3>Steps</h3>
 Create a project in Google Cloud Console. 
