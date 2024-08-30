@@ -8,7 +8,7 @@ The aim of this project is to integrate OpenIdConnect (OIDC) with Google as the 
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
-- Google Cloud Console
+- Google Cloud Console\
 - Node.js: as the JavaScript runtime environment
 - Npm: package manager for Node.js packages
 
