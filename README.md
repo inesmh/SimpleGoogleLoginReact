@@ -1,5 +1,5 @@
 <h1>Simple Google Loging App</h1>
-<br />
+
 <h3>Objective</h3>
 The aim of this project is to integrate OpenIdConnect (OIDC) with Google as the Identity Provider (IdP) with a React application
 <br /> <br />
