@@ -1,18 +1,20 @@
 <h1>Simple Google Loging App</h1>
 <br />
-## Objective
+<br />
+<h3>Objective</h3>
 The aim of this project is to integrate OpenIdConnect (OIDC) with Google as the Identity Provider (IdP) with a React application
+<br /> <br />
+<h3>Skills Learned</h3>
+● Understand OpenIdConnect with Google as an IdP
+● Basic React
+
 <br />
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+<h3>Tools Used</h3>
+● Google Cloud Console
+● Node.js: as the JavaScript runtime environment
+● Npm: package manager for Node.js packages
 <br />
-### Tools Used
-[Bullet Points - Remove this afterwards]
-- Google Cloud Console
-- Node.js: as the JavaScript runtime environment
-- Npm: package manager for Node.js packages
-<br />
-## Steps
+<h3>Steps</h3>
 Create a project in Google Cloud Console. 
 <br /> <br />
 <img width="425" alt="simple_google_auth_1" src="https://github.com/user-attachments/assets/83d04c02-9e94-4263-9254-4bf4c5be59b3">
